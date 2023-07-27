@@ -4,7 +4,7 @@ import './App.css';
 const App: React.FC = () => {
   return (
     <div className="app">
-      <Navbar title="web " />
+      <Navbar title="web novel" />
     </div>
   );
 };
