@@ -1,1 +1,1 @@
-const Novel
+const Novel: React.FC 
