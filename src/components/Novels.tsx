@@ -6,4 +6,4 @@ const Novel: React.FC = () => {
     )
 }
 
-export default
+export default Novel
