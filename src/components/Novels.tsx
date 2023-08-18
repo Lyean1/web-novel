@@ -5,3 +5,5 @@ const Novel: React.FC = () => {
         </div>
     )
 }
+
+export
