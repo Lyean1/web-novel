@@ -1,1 +1,3 @@
-const Novel: React.FC 
+const Novel: React.FC = () => {
+    
+}
