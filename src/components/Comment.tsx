@@ -1,1 +1,3 @@
-const Comment
+const Comment: React.FC = () => {
+    
+}
