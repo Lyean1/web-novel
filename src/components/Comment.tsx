@@ -6,4 +6,4 @@ const Comment: React.FC = () => {
     )
 }
 
-export default
+export default Comment
