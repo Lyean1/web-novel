@@ -1,7 +1,7 @@
 const Comment: React.FC = () => {
     return (
-        <div>
-            
+        <div className="comment">
+
         </div>
     )
 }
