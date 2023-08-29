@@ -1,1 +1,1 @@
-const Type
+const Type: React.FC
