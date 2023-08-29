@@ -1,7 +1,7 @@
 const Type: React.FC = () => {
     return (
-        <div>
-            
+        <div className="type">
+
         </div>
     )
 }
