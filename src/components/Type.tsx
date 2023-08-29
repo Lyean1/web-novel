@@ -1,1 +1,3 @@
-const Type: React.FC
+const Type: React.FC = () => {
+    
+}
