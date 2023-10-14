@@ -1,1 +1,1 @@
-const Release
+const Release : React.FC
