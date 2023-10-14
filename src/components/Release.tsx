@@ -5,3 +5,5 @@ const Release : React.FC = () => {
         </div>
     )
 }
+
+export
