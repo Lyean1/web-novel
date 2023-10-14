@@ -1,7 +1,7 @@
 const Release : React.FC = () => {
     return (
-        <div>
-            
+        <div className="release">
+
         </div>
     )
 }
