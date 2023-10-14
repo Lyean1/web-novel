@@ -6,4 +6,4 @@ const Release : React.FC = () => {
     )
 }
 
-export default
+export default Release
