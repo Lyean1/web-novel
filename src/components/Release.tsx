@@ -1,1 +1,3 @@
-const Release : React.FC
+const Release : React.FC = () => {
+    
+}
