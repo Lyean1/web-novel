@@ -6,4 +6,4 @@ const Ranking: React.FC = () => {
     )
 }
 
-export
+export default
