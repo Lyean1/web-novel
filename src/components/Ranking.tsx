@@ -1,1 +1,3 @@
-const Ranking: React.FC
+const Ranking: React.FC = () => {
+    
+}
