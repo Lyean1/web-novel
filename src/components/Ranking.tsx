@@ -5,3 +5,5 @@ const Ranking: React.FC = () => {
         </div>
     )
 }
+
+export
