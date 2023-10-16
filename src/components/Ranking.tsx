@@ -1,1 +1,1 @@
-const Ranking
+const Ranking: React.FC
